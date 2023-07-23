@@ -1,0 +1,37 @@
+/* public/css/app.css */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f2f5;
+}
+
+.container {
+  margin-top: 20px;
+}
+
+/* Warna hijau ala Tokopedia */
+.green-bg {
+  background-color: #00b14f;
+  color: #fff;
+}
+
+.green-bg:hover {
+  background-color: #00743f;
+}
+
+.btn-green {
+  background-color: #00b14f;
+  color: #fff;
+}
+
+.btn-green:hover {
+  background-color: #00743f;
+}
+
+/* Style minimalis untuk tabel */
+.table {
+  border: 1px solid #dee2e6;
+}
+
+.table th, .table td {
+  border: 1px solid #dee2e6;
+}
